@@ -259,5 +259,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
-/OUTWARD_Mood_04.jpg
-/StopFoodDecay_1000.zip
+/Cooking.jpg
+/StopFoodDecay*.zip

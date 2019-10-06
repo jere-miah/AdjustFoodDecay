@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("StopFoodDecay")]
-[assembly: AssemblyDescription("Stops food from decaying in Outward")]
+[assembly: AssemblyTitle("StopFoodDecay-Partiality")]
+[assembly: AssemblyDescription("Mod for Outward that stops perishable food items from rotting")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Stop Food Decay")]
-[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
